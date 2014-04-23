@@ -57,8 +57,8 @@ tag: 2
 ## Hexo uses Connect as a server
 ## You can customize the logger format as defined in
 ## http://www.senchalabs.org/connect/logger.html
-port: 4000
-server_ip: 0.0.0.0
+port: 80
+server_ip: 66.172.33.88
 logger: false
 logger_format:
 
