@@ -1,0 +1,3 @@
+[submodule "themes/joehare-hexo-theme"]
+	path = themes/joehare-hexo-theme
+	url = git@github.com:jhare/joehare-hexo-theme

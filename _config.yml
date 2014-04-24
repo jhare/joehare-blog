@@ -57,8 +57,11 @@ tag: 2
 ## Hexo uses Connect as a server
 ## You can customize the logger format as defined in
 ## http://www.senchalabs.org/connect/logger.html
-port: 80
-server_ip: 66.172.33.88
+#port: 80
+#server_ip: 66.172.33.88
+port: 8080
+server_ip: 127.0.0.1
+
 logger: false
 logger_format:
 
@@ -80,7 +83,7 @@ disqus_shortname:
 # Extensions
 ## Plugins: https://github.com/tommy351/hexo/wiki/Plugins
 ## Themes: https://github.com/tommy351/hexo/wiki/Themes
-theme: light #landscape
+theme: joehare-hexo-theme # light #landscape
 exclude_generator:
 
 # Markdown
