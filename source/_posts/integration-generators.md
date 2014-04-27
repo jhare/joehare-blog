@@ -14,4 +14,4 @@ Later on...
   * Github pages creation
   * ... and more?
 
-There are a few that overlap with these, but not in a generic enough way.  Some are unmaintained, others try to do collections of these tasks in one generator when really they should be broken up.
+There are a few generators that overlap with mine, but they do not work in a generic enough way.  Some are unmaintained, others try to do collections of these tasks in one generator when really they should be broken up.
