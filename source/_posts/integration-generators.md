@@ -1,6 +1,12 @@
 title: Yeoman Generators for Meta Work
 date: 2014-04-26 23:35:13
-tags: yeoman generator travis-ci github integration nodejs
+tags: 
+    - yeoman
+    - generator
+    - travis-ci
+    - github
+    - integration
+    - nodejs
 ---
 
 New generators that I'm working on now

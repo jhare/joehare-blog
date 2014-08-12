@@ -1,6 +1,8 @@
 title: Integrated Shougu Plugins
 date: 2014-05-21 22:10:14
-tags: vim, Shougu, plugin 
+tags: 
+    - vim
+    - Shougu
 ---
 
 Switched out [pathogen](https://github.com/tpope/vim-pathogen) for the [Shougu plugins](https://github.com/Shougo/neobundle.vim).
